@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ali Rıza</h1>
-<h1 align="center">An accomplished Civil Engineer skilled in BIM and plug-in development for Autodesk Revit, dedicated to advancing the construction industry through innovation and excellence.</h1>
+<h5 align="center">Hi 👋, I'm Ali Rıza</h5>
+<h5 align="center">An accomplished Civil Engineer skilled in BIM and plug-in development for Autodesk Revit, dedicated to advancing the construction industry through innovation and excellence.</h5>
 
 - 📫 How to reach me **alirizayilmaz59@gmail.com**
 
